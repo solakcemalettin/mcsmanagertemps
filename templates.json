@@ -51,6 +51,25 @@
     },
     {
       "language": "en_us",
+      "description": "[Minecraft] Afk Client V1.0",
+      "title": "Minecraft Afk Client 1.16.5 V1.0 Sürümü",
+      "runtime": "McAfk",
+      "hardware": "Ram 150MB",
+      "size": "5Mb",
+      "remark": "Normal Bir Afk Client.",
+      "targetLink": "https://t.com.zip",
+      "author": "Cemosolak",
+      "setupInfo": {
+        "type": "minecraft/java",
+        "startCommand": "baslat.bat",
+        "stopCommand": "stop",
+        "updateCommand": "",
+        "ie": "utf-8",
+        "oe": "utf-8"
+      }
+    },
+    {
+      "language": "en_us",
       "description": "Tip: The default startup command is \"sh ./run.sh\". If you need to run it on Windows, please change start command to \"start.bat\" after installation.",
       "title": "Forge 1.20.6 (Support Mods)",
       "runtime": "Java 21+",
